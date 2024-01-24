@@ -2,6 +2,18 @@
 
 This repository provides two web crawlers to label domain names using the McAfee API (https://www.trustedsource.org/sources/index.pl) and IP reputation using the TALOS API (https://talosintelligence.com/), respectively.
 
+### Citing
+If you find this project useful for your research, please cite my paper.
+```
+@article{qin2024multi,
+  title={Multi-Task DNS Security Analysis via High-Order Heterogeneous Graph Embedding},
+  author={Qin, Meng},
+  journal={arXiv preprint arXiv:2401.07410},
+  year={2024}
+}
+
+```
+
 ### Requirements
 * BeautifulSoup
 
